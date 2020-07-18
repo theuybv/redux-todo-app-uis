@@ -1,5 +1,5 @@
 {
-  "name": "redux-todo-appp-uis",
+  "name": "redux-todo-app-uis",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -46,5 +46,7 @@
   },
   "devDependencies": {
     "@types/antd": "^1.0.0"
-  }
+  },
+  "keywords": [],
+  "description": "simple redux todo app example converted into antd, material-ui and reactbootstrap"
 }
